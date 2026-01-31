@@ -12,7 +12,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700&display=swap" rel="stylesheet">
   
   <!-- Styles -->
-  <link rel="stylesheet" href="css/style.css">
+ <link rel="stylesheet" href="./css/style.css">
+
 </head>
 <body>
   
